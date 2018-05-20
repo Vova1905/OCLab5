@@ -1,9 +1,15 @@
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <ctype.h>
+
 #include <string.h>
+
 #include <sys/types.h>
+
 #include <sys/ipc.h>
+
 #include <sys/msg.h>
 
 #define MAX_SEND_SIZE 80
