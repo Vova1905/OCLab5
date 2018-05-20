@@ -101,4 +101,5 @@ void usage(void)
   fprintf(stderr, "               (d)elete\n");
   fprintf(stderr, "               (m)ode <octal mode>\n");
 }
+  
   ![](5.bmp)
