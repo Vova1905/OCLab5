@@ -1,3 +1,4 @@
+'c
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -100,6 +101,6 @@ void usage(void)
   fprintf(stderr, "               (r)ecv <type>\n");
   fprintf(stderr, "               (d)elete\n");
   fprintf(stderr, "               (m)ode <octal mode>\n");
-}
+}'
   
   ![](5.bmp)
