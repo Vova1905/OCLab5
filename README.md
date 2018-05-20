@@ -9,8 +9,8 @@
 #define MAX_SEND_SIZE 80
 
 struct mymsgbuf {
-  long mtype;
-  char mtext[MAX_SEND_SIZE];
+long mtype;
+char mtext[MAX_SEND_SIZE];
 };
 
 void send_message(int qid, struct mymsgbuf *qbuf, long type, char *text);
